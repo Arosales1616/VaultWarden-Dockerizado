@@ -1,0 +1,3 @@
+vaultwarden.analytikainc.cl {
+    reverse_proxy vaultwarden:80
+}
