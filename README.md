@@ -14,8 +14,6 @@ caddy_data/: Certificados SSL automáticos (no versionar).
 
 ## Buenas Prácticas:
 
-Añade data/, caddy_data/ y .env a .gitignore.
-
 Seguridad:
 
 Usa HTTPS obligatoriamente.
