@@ -37,3 +37,7 @@ openssl rand -base64 48
 
 2.Guárdala en tu .env:
 ADMIN_TOKEN=tu_clave_generada
+
+## ¿Para qué sirve el Caddyfile en este proyecto?
+
+El Caddyfile es el corazón de la configuración de Caddy, un servidor web moderno que simplifica la gestión de HTTPS y actúa como proxy inverso. 
